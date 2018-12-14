@@ -1,0 +1,42 @@
+{
+  "generator-jhipster": {
+    "applicationType": "uaa",
+    "gitCompany": "",
+    "baseName": "uaa",
+    "packageName": "com.microservice.uaa",
+    "packageFolder": "com/microservice/uaa",
+    "serverPort": 8199,
+    "serviceDiscoveryType": "eureka",
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [],
+    "enableTranslation": true,
+    "nativeLanguage": "zh-cn",
+    "languages": [
+      "zh-tw",
+      "en",
+      "zh-cn"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.7.0",
+    "jwtSecretKey": "YThmODY2OTBiNWU1NWY0N2ZiYzg5MWE0MTljZDgyZjZmMTZkNDg1ODAyZWJhZTJiNzlkYTQ5MzI4YjNjMjQwMGYxYWZlZGI0YmNlODFmNmVmZTdmMjcxOGFkNTY5MmExZTdmODkyMTQ0MzNmZWM0NGZhZWRhYWU2ZmVmYjg2NDU=",
+    "otherModules": [],
+    "skipClient": true
+  },
+  "git-provider": "GitHub",
+  "git-company": "qq281541534",
+  "repository-name": "uaa"
+}
